@@ -1,3 +1,5 @@
+Voir aussi : http://maisondesrevues.org/191
+
 Interface côté édition
 ----------------------
 
