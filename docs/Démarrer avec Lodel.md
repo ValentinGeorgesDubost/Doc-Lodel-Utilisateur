@@ -63,3 +63,24 @@ L’accès à l’interface d’édition de Lodel est réservé aux utilisateurs
 
 #### POURQUOI 5 NIVEAUX ?
 
+Dans le travail de création, de maintenance et de mise à jour d’un site, les manipulations à effectuer 
+sont multiples : l’importation de documents, la publication de ces documents, la structuration du site, la maintenance des fichiers.
+
+Il est rare que ces rôles soient tenus par une seule et même personne. Ainsi le secrétaire de rédaction sera chargé de l’importation des documents, le rédacteur en chef aura la responsabilité de la publication, et le webmestre devra s’occuper du travail sur les gabarits.
+
+Cette distribution en niveaux d’utilisateurs permet de structurer efficacement des équipes dispersées géographiquement. Elle permet par ailleurs de répartir les rôles entre les différents acteurs de la vie d’une revue (auteur, rédacteur en chef, webmaster), dont les compétences ne sont pas les mêmes.
+
+Ces différents rôles à jouer sur le site impliquent des différences de droits d’accès. Par exemple, la personne qui importe les documents n’a pas nécessairement l’autorité nécessaire pour publier ou dépublier les documents du site. Par conséquent, il est préférer que cette possibilité ne lui soit pas accordée. 
+
+Les cinq niveaux d’utilisateur sont :
+
+* Visiteur
+* Rédacteur
+* Editeur
+* Administrateur
+* Administrateur Lodel
+
+Le statut de la personne connectée est rappelé en haut à droite de l’interface d’édition de Lodel.
+
+#### Identification et statut de l’utilisateur dans le bandeau de l’interface d’édition
+
