@@ -83,4 +83,4 @@ Les cinq niveaux d’utilisateur sont :
 Le statut de la personne connectée est rappelé en haut à droite de l’interface d’édition de Lodel.
 
 #### Identification et statut de l’utilisateur dans le bandeau de l’interface d’édition
-![Screenshot1](image/image 2.png)
+![Screenshot1](image/image2.png)
