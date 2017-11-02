@@ -8,7 +8,7 @@ accessible aux personnes autorisées uniquement, avec un login et mot de passe, 
 Pour résumer : tout site Lodel se divise en deux :
 
 D’un côté un site public, accessible à tous les lecteurs, dont l’apparence est particulière à chaque site et déterminée 
-par les templates.
+par les *templates*.
 
 De l’autre un espace privé d’édition, conçu pour permettre aux personnes autorisées d’éditer le site. En général un lien 
 présent sur les pages du site public permet d’y accéder. Si ce n’est pas le cas, il suffit de suffixer `/lodel/edition/`
@@ -83,4 +83,50 @@ Les cinq niveaux d’utilisateur sont :
 Le statut de la personne connectée est rappelé en haut à droite de l’interface d’édition de Lodel.
 
 #### Identification et statut de l’utilisateur dans le bandeau de l’interface d’édition
-![Screenshot1](image/image 2.png)
+![Screenshot1](image/image2.png)
+
+Les possibilités dont l’utilisateur dispose sous Lodel dépendent de son niveau. Il aura alors accès à une plus ou moins grande partie des fonctions de Lodel. Ces niveaux d’utilisateur sont définis par l’administrateur du site.
+
+Quel que soit le niveau d’accès de l’utilisateur, les boutons correspondant aux actions non autorisées sont visibles, mais inactifs. Ainsi, tout utilisateur peut avoir un aperçu complet des fonctionnalités de Lodel, même s’il ne peut les utiliser directement.
+
+#### QUE PERMET CHAQUE NIVEAU D'UTILISATEUR
+
+**Visiteur**
+
+C’est le premier statut, le plus restrictif. Il permet à la personne connectée à Lodel de naviguer au sein du site et de l’interface d’édition, mais aucune action ne lui est permise. Il ne peut avoir qu’un rôle de spectateur.
+
+*Ce niveau d’accès peut par exemple être attribué aux membres du comité de rédaction d’une revue, ou aux auteurs, qui peuvent ainsi vérifier la bonne qualité formelle des  textes avant publication.*
+
+**Rédacteur**
+
+Le rédacteur peut ajouter des documents au site, en les important via l’interface de chargement.
+
+Aucune autre action ne lui est permise : il ne peut ni publier les documents, ni les détruire.
+
+*Ce niveau correspond par exemple au secrétaire de rédaction, qui n’a en charge que le stylage et l’importation des documents.*
+
+**Editeur**
+
+L’éditeur peut décider quel document doit être publié, dépublié, détruit.
+
+Il peut aussi créer des publications, déplacer les documents d’une publication à l’autre. Il gère la structure éditoriale du site.
+
+*Ce niveau correspond donc au statut de rédacteur en chef de la publication.*
+
+**Administrateur**
+
+Comme son nom l’indique, l’administrateur possède tous les droits. Il peut accéder à l’ensemble des fonctionnalités disponibles dans l’interface du site. Il gère l’ensemble du site, les différents utilisateurs, les options définies dans l’interface d’administration.
+
+*Ce niveau correspond à celui du webmaster.*
+
+**Administrateur de Lodel**
+
+L’administrateur Lodel possède deux droits supplémentaires par rapport à l’administrateur simple :
+
+  1. Il peut modifier le modèle éditorial du site
+  2. Il peut circuler d’un site à l’autre, dans le cas des multisites.
+  
+
+## DROITS
+
+© tous droits réservés
