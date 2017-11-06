@@ -3,5 +3,6 @@ site_name: Doc Utilisateur Lodel
 pages:
 - Introduction: 'index.md'
 - 'Démarrer avec Lodel.md'
+- Découvrir l'interface de Lodel: 'Découvrir interface de Lodel.md'
 - 'Organiser la structure du site.md'
 - 'Glossaire.md'
