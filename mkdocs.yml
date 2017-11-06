@@ -2,8 +2,13 @@ site_name: Doc Utilisateur Lodel
 
 pages:
 - Introduction: 'index.md'
+
+- Utilisation:
 - 'Démarrer avec Lodel.md'
 - Découvrir l'interface de Lodel: 'Découvrir interface de Lodel.md'
+- 'Organiser la structure du site.md'
+- 'Configurer son site.md'
+- 'Importer un document.md'
 
 - Configurer Lodel:
   - 'Configurer-Lodel/Principales notions.md'
@@ -11,5 +16,4 @@ pages:
   - 'Configurer-Lodel/Administrateur.md'
   - 'Configurer-Lodel/Editeur.md'
 
-- 'Organiser la structure du site.md'
 - 'Glossaire.md'
