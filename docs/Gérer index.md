@@ -23,16 +23,19 @@ Excepté l’index des directeurs de la publication, tous les index matières ou
 Au moment du chargement du fichier, des champs particuliers sur la page d’édition du document permettent de vérifier que les bonnes entrées d’index ont été reconnues et ajoutées dans les index appropriés (voir le chapitre : « Importer un document »). Des pages de gestion d’index dans l’interface permettent enfin de visualiser les index dans leur globalité et d’y apporter éventuellement des modifications.
 
 Page de gestion de l’index mots clés dans l’interface
+
 ![Screenshot1](image/Gérer-index/img-1.png)
 
 LES ENTRÉES D’INDEX HIÉRARCHIQUES
 
 Cas d’entrées hiérarchiques dans l’index géographique
+
 ![Screenshot1](image/Gérer-index/img-2.png)
 
 Il est cependant un cas particulier où les entrées d’index doivent être obligatoirement modifiées dans l’interface Web après ajout via le chargement des fichiers au format traitement de texte. Il s’agit des entrées d’index hiérarchiques. Il n’est en effet pas possible d’indiquer la relation hiérarchique d’une entrée d’index avec une parente au niveau du fichier au format traitement de texte. Toute nouvelle entrée chargée via le fichier sera donc positionnée au plus haut niveau de l’arborescence (sans parent). Il est donc nécessaire dans un second temps, après chargement, de lui attribuer un parent dans l’interface web. Cette opération peut être effectuée avant le chargement, par la création a priori de l’ensemble des entrées d’un index hiérarchique et l’assignation de leurs relations hiérarchiques. Le chargement de documents contenant ces entrées d’index viendra simplement établir une relation entre ces entrées d’index préexistantes et les documents.
 
 Gestion des entrées d’index hiérarchiques dans l’interface
+
 ![Screenshot1](image/Gérer-index/img-3.png)
 
 Dans tous les cas il faut faire très attention à ne pas introduire de variation de forme ou de casse dans les entrées d’index (singulier/pluriel, majuscule/bas de casse) au risque d’introduire des doublons.
@@ -44,8 +47,8 @@ Il est possible d’enrichir les entrées d’index matière en les éditant dan
 La case « entrée permanente » définit le comportement de l’entrée d’index en l’absence de tout document qui lui serait lié. Si l’entrée est permanente, elle demeure en ligne même si aucun document ne lui est lié, ce qui n’est pas le cas si elle n’est pas permanente. Très logiquement, une entrée créée dans l’interface est nécessairement permanente ; elle ne l’est pas forcément si elle a été créée au moment de l’importation d’un document. Dans le cas d’index hiérarchiques, une entrée d’index ne peut être parente que si elle est permanente. Ceci afin de ne pas avoir d’entrée enfant dont le parent aurait disparu, c'est-à-dire d’entrée orpheline.
 
 Edition d’une entrée d’index
+
 ![Screenshot1](image/Gérer-index/img-4.png)
 
 Notons enfin que les entrées d’index disposent de leur propre statut de publication : elles peuvent être publiées ou non. Attention à gérer de manière cohérente ces statuts de publication, en particulier dans le  cas d’index hiérarchiques.
 
-Haut de page
