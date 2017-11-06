@@ -73,10 +73,10 @@ Les modèles éditoriaux mettent en place de contraintes sur les types de struct
  * Les « textes » ne peuvent se trouver à la racine du site
  * Les « fichiers » ne peuvent être placés à la racine du site
  * Les « personnes » ne peuvent être insérées qu’au sein de publications de type « Equipe »
-
+ 
 C’est l’application des règles du modèle éditorial qui explique que certains types de publications ou de documents ne sont pas disponibles et ne peuvent être créés selon l’endroit où l’on se trouve dans l’arborescence du site.
 
-Dans la page d’édition des publications, le bloc de « Gestion des publications » est propre au modèle éditorial de Revues.org. Il permet de transmettre des informations qui, si elles sont utilisées par la maquette, déclenchent des affichages spécifiques :
+Dans la page d’édition des publications, le bloc de « Gestion des publications » est propre au modèle éditorial de Revues.org. Il permet de transmettre des informations qui, si elles sont utilisées par la maquette, déclenchent des affichages spécifiques.
 
 **Bloc de gestion des publications**
 ![Screenshot4](image/image15.png)
