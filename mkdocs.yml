@@ -1,7 +1,7 @@
 site_name: Doc Utilisateur Lodel
 
 pages:
-Introduction: 'index.md'
-'Démarrer avec Lodel.md'
-'Organiser la structure du site.md'
-'Glossaire.md'
+- Introduction: 'index.md'
+- 'Démarrer avec Lodel.md'
+- 'Organiser la structure du site.md'
+- 'Glossaire.md'
