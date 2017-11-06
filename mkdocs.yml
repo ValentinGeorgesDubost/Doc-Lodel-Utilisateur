@@ -5,11 +5,11 @@ pages:
 - 'Démarrer avec Lodel.md'
 - Découvrir l'interface de Lodel: 'Découvrir interface de Lodel.md'
 
-Configurer Lodel:
-- 'Configurer-Lodel/Principales notions.md'
-- 'Configurer-Lodel/Fonctionnalités.md'
-- 'Configurer-Lodel/Administrateur.md'
-- 'Configurer-Lodel/Editeur.md'
+- Configurer Lodel:
+  - 'Configurer-Lodel/Principales notions.md'
+  - 'Configurer-Lodel/Fonctionnalités.md'
+  - 'Configurer-Lodel/Administrateur.md'
+  - 'Configurer-Lodel/Editeur.md'
 
 - 'Organiser la structure du site.md'
 - 'Glossaire.md'
