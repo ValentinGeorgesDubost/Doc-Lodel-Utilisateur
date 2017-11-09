@@ -1,5 +1,5 @@
 site_name: Doc Utilisateur Lodel
-theme: cyborg
+theme: amelia
 
 pages:
 - Introduction: 'index.md'
