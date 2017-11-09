@@ -1,4 +1,5 @@
 site_name: Doc Utilisateur Lodel
+theme: cyborg
 
 pages:
 - Introduction: 'index.md'
