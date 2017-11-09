@@ -1,5 +1,4 @@
 site_name: Doc Utilisateur Lodel
-theme: slate
 
 pages:
 - Introduction: 'index.md'
