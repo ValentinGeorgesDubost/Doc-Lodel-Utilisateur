@@ -1,5 +1,5 @@
 site_name: Doc Utilisateur Lodel
-theme: amelia
+theme: slate
 
 pages:
 - Introduction: 'index.md'
