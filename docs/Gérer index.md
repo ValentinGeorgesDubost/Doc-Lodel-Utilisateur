@@ -1,5 +1,5 @@
-LES INDEX DU MODÈLE ÉDITORIAL DE REVUES.ORG
-===========================================
+LES INDEX DU MODÈLE ÉDITORIAL D'OpenEdition Journals
+====================================================
 
 INDEX MATIÈRES
 --------------
@@ -15,7 +15,7 @@ INDEX DE PERSONNES
 Il s’agit de l’index des auteurs, des traducteurs, des directeurs de publication, des éditeurs scientifiques et des auteurs d’œuvres commentées.
 
 Index auteurs : il s’agit des auteurs des documents mis en ligne. Attention : il est à noter que pour Lodel, contrairement à d’autres logiciels de publication, la notion d’auteur n’a aucune connexion avec la notion de compte utilisateur. Ainsi, lorsqu’un utilisateur charge un document dans Lodel, il n’est pas considéré comme l’auteur du document. Cette information est renseignée dans le document Word lui-même où le nom de l’auteur est précisé.
-Index auteurs d’une œuvre commentée : dans le modèle éditorial de Revues.org, il est possible de publier des comptes rendus ou des notes de lecture. Pour ces documents, il est possible de spécifier certaines informations relatives à l’œuvre faisant l’objet du compte rendu ou de la note de lecture, telles que le nom de son auteur, ce qui permet de constituer et d’alimenter un index des auteurs des œuvres commentées par les comptes rendus et notes de lecture (à ne pas confondre avec l’index des auteurs des documents publiés sur le site).
+Index auteurs d’une œuvre commentée : dans le modèle éditorial d'OpenEdition Journals, il est possible de publier des comptes rendus ou des notes de lecture. Pour ces documents, il est possible de spécifier certaines informations relatives à l’œuvre faisant l’objet du compte rendu ou de la note de lecture, telles que le nom de son auteur, ce qui permet de constituer et d’alimenter un index des auteurs des œuvres commentées par les comptes rendus et notes de lecture (à ne pas confondre avec l’index des auteurs des documents publiés sur le site).
 Index des éditeurs scientifiques : il s’agit ici de l’éditeur scientifique d’un document particulier (un ancien article réédité par exemple et présenté par un chercheur) et non du responsable scientifique de tout un numéro de revue ou d’un dossier, c’est-à-dire d’une publication.
 Index des directeurs de la publication : cet intitulé est trompeur car par « directeur de la publication » on ne désigne pas le responsable juridique du site dans son ensemble, contrairement à l’usage courant, mais les responsables de numéros et de dossiers, c'est-à-dire de « publications » au sens où Lodel l’entend (se reporter au glossaire pour plus de précision). Contrairement aux autres index, celui-ci n’est donc pas alimenté par le chargement de documents sur le site, mais par l’ajout de responsables au niveau des publications.
 
