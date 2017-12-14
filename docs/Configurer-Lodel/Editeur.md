@@ -115,7 +115,7 @@ Cette page permet, comme on l’a vu au niveau visiteur, de très nombreuses act
 
 La page d’édition des métadonnées : vue d’ensemble
 
-Prenons-là de haut en bas, en commençant par la colonne de gauche. Cette colonne (dans le cas du modèle éditorial de Revues.org) :
+Prenons-là de haut en bas, en commençant par la colonne de gauche. Cette colonne (dans le cas du modèle éditorial d'OpenEdition Journals) :
 
 - Affiche le titre, sous-titre, titre traduit (champ éditable)
 - Affiche le résumé (mais le champ n’est pas éditable)
