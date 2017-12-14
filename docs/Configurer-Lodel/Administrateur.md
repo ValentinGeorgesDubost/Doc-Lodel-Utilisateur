@@ -130,7 +130,7 @@ Il existe différents types de publications et différents types de documents, c
 
 On peut ajouter à la base du site cinq entités : un type de publication (collection) et quatre types de document (éditorial, article, annonce et actualité et présentation).
 
-La collection est la première subdivision d’une revue en ligne élaborée avec le modèle éditorial de Revues.org. Elle se crée à la base du site et est destinée à recevoir volumes, numéros, rubriques, colloques ainsi qu’éditoriaux, articles, annonces et actualités, brèves et présentations.
+La collection est la première subdivision d’une revue en ligne élaborée avec le modèle éditorial d'OpenEdition Journals. Elle se crée à la base du site et est destinée à recevoir volumes, numéros, rubriques, colloques ainsi qu’éditoriaux, articles, annonces et actualités, brèves et présentations.
 
 Un volume, un numéro, une rubrique et un colloque peuvent contenir un volume, un numéro, une rubrique, un colloque, un regroupement, un article, une annonce et actualité, un éditorial, une brève, un compte rendu, une note de lecture, une présentation, une chronique et un article vide. Les publications de type rubrique, numéro, volume et colloque peuvent contenir un nombre illimité de publications. Un regroupement peut recevoir des documents tels qu’articles, annonces et actualités, éditoriaux, brèves, compte rendus, notes de lecture, présentations, chroniques et articles vides. Un regroupement ne peut par conséquent pas recevoir de publications.
 
@@ -144,7 +144,7 @@ Index linéaires et index hiérarchiques
 
 Lodel est capable de gérer deux types d’index : les index linéaires, plaçant toutes les entrées créées sur un même niveau, et les index hiérarchiques, permettant de créer des entrées de niveaux hiérarchisés.
 
-Le modèle éditorial de Revues.org comprend deux types d’index linéaires, l’index par atueur et l’index par mots clés, et trois types d’index hiérarchiques, les index chronologique, géographique et thématique.
+Le modèle éditorial d'OpenEdition Journals comprend deux types d’index linéaires, l’index par atueur et l’index par mots clés, et trois types d’index hiérarchiques, les index chronologique, géographique et thématique.
 
 L’index par auteur est généré dynamiquement par Lodel.
 
