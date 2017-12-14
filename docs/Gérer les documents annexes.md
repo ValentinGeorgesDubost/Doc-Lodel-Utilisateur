@@ -3,7 +3,7 @@ PRÉSENTATION
 
 Outre les publications et les documents, Lodel offre la possibilité de mettre en ligne des « documents annexes ». Il s’agit de documents attachés à d’autres documents. Leur existence dans la base de données dépend donc du document auquel ils sont annexés, même s’ils disposent d’un statut de publication autonome (ils peuvent être publiés ou non indépendamment du document dont ils dépendent par ailleurs).
 
-Les documents annexes peuvent être de différentes natures : il peut s’agit de textes simples (des billets dans le modèle éditorial de Revues.org), de fichiers (de toutes natures : vidéo, son, pdf ou autres), ou enfin de liens vers des sites web.
+Les documents annexes peuvent être de différentes natures : il peut s’agit de textes simples (des billets dans le modèle éditorial d'OpenEdition Journals), de fichiers (de toutes natures : vidéo, son, pdf ou autres), ou enfin de liens vers des sites web.
 
 
 ![Screenshot1](image/Gérer-docs-annexes/img-1.png)
@@ -19,7 +19,7 @@ Bloc « Documents annexes » dans la page d’édition d’un document
 
 ![Screenshot1](image/Gérer-docs-annexes/img-3.png)
 
-Dans le modèle éditorial de Revues.org, il existe 5 types de documents annexes, organisés en trois menus déroulants :
+Dans le modèle éditorial d'OpenEdition Journals, il existe 5 types de documents annexes, organisés en trois menus déroulants :
 
 textes simples : commentaires de documents
 
