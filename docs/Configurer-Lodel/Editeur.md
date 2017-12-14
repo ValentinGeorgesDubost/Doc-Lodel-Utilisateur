@@ -141,7 +141,7 @@ Il est possible, juste en dessous, de modifier le statut d’un document
 Lorsqu’on modifie le statut d’un document, la modification opère tout de suite, sans confirmation. Si on a effectué des modifications dans la colonne de gauche de la page d’« édition des données relatives à l’entité » (modification du titre, etc.), il faut valider avant de modifier le statut du document, faute de quoi les modifications seront perdues. Comme dans Lodel 0.7, il est possible de déplacer un document. À présent, il est également possible de déplacer des numéros entiers
 
 Le bloc « documents annexes » permet d’ajouter des documents de diverses natures : commentaire, image, vidéo, son, URL… Il s’agit d’anticiper les besoins des revues dans quelques années.
-Si on ajoute une image (ou une vidéo), une page d’édition s’ouvre, qui permet de saisir le titre de l’image, de la télécharger, puis de la décrire dans un petit éditeur en WYSIWYG. Par défaut, Lodel génèrera une vignette, mais on peut la générer soit-même, afin, par exemple, de recadrer une image plutôt que de laisser le redimensionnement automatique, qui peut rendre la vignette complètement illisible.
+Si on ajoute une image (ou une vidéo), une page d’édition s’ouvre, qui permet de saisir le titre de l’image, de la télécharger, puis de la décrire dans un petit éditeur en WYSIWYG. Par défaut, Lodel génèrera une vignette, mais on peut la générer soi-même, afin, par exemple, de recadrer une image plutôt que de laisser le redimensionnement automatique, qui peut rendre la vignette complètement illisible.
 
 Une fois que le document annexe est ajouté, un trombone sous le titre du document parent :
 
@@ -207,5 +207,5 @@ Gestion du XML
 Ce bloc permet de manipuler le document au format XML.
 
 Visualiser le XML : permet de voir le XML. Le comportement dépend du type de navigateur que vous utilisez.
-Récupérer le fichier XML : permet de déposer le fichier XML sur votre disque dur. Il existe par ailleurs une foncionnalité de sauvegarde de la totalité des fichiers XML dans la zone administration.
+Récupérer le fichier XML : permet de déposer le fichier XML sur votre disque dur. Il existe par ailleurs une fonctionnalité de sauvegarde de la totalité des fichiers XML dans la zone administration.
 Valider le XML : permet de lancer une validation du XML afin de vous assurer de sa conformité aux normes. Aucun fichier ne doit produire d’erreur. Si une erreur survenait lors de la validation, signalez-le à l’équipe de développement de Lodel.

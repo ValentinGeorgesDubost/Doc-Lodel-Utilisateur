@@ -188,7 +188,7 @@ Fonction
 Préfixe
 Courriel
 Site
-Chacun des ces styles sera interprété par Lodel dans un champ distinct et permettra un affichage standardisé dans la maquette.
+Chacun de ces styles sera interprété par Lodel dans un champ distinct et permettra un affichage standardisé dans la maquette.
 
 Orthographe des noms d’auteur
 
@@ -246,7 +246,7 @@ Date de publication électronique et « barrière mobile ».
 
 Pour les revues adhérant à OpenEdition Journals et utilisant la fonction de « barrière mobile », la date de publication électronique sera utilisée par Lodel pour gérer l’affichage de l’article sous forme de résumé ou en texte intégral.
 
-Les articles ayant une date de publication électronique postérieure à la date de consultation de l’article, seules les métadonnées seront affichés (titre, auteur, résumés, abstract…) ;
+Les articles ayant une date de publication électronique postérieure à la date de consultation de l’article, seules les métadonnées seront affichées (titre, auteur, résumés, abstract…) ;
 
 les articles ayant une date de publication électronique antérieure à la date de consultation de l’article seront affichés en texte intégral.
 
@@ -272,7 +272,7 @@ Ils sont à styler séparément en autant de fichiers. Ne pas intituler ce type 
 
 Si la recension n’a pas de titre propre, il est d’usage d’appliquer le style « Titre » à l’auteur et au titre de l’ouvrage recensé. Il est aussi possible de styler les éléments bibliographiques (éditeur, lieu et année d’édition…) en « Sous-titre » : ceci permet d’afficher la notice bibliographique dans le sommaire.
 
-Les titre, nom d’auteur, notice bibliographique et date de publication des œuvres commentées peuvent aussi être stylés en tant que métadonnées (Menu Lodel œuvre commentée) dans cet ordre :
+Les titres, nom d’auteur, notice bibliographique et date de publication des œuvres commentées peuvent aussi être stylés en tant que métadonnées (Menu Lodel œuvre commentée) dans cet ordre :
 
 Titre de l’œuvre commentée
 Auteur de l’œuvre commentée

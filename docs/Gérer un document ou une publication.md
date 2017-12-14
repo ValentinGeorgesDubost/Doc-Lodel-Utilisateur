@@ -118,7 +118,7 @@ Bloc « documents annexes »
 
 ![Screenshot1](image/Gérer-doc-ou-publication/img-12.png)
 
-Permet d’ajouter des documents de diverses natures : commentaire, image, vidéo, son, lien vers un site Web, qui seront annexés au documents en cours d’édition. Dans Lodel, les documents annexes, contrairement aux documents, ne sont pas convertis ou ne font pas l’objet de traitements particuliers.
+Permet d’ajouter des documents de diverses natures : commentaire, image, vidéo, son, lien vers un site Web, qui seront annexés aux documents en cours d’édition. Dans Lodel, les documents annexes, contrairement aux documents, ne sont pas convertis ou ne font pas l’objet de traitements particuliers.
 
 L’ajout d’un document annexe entraîne l’ouverture d’une nouvelle page permettant de décrire complètement le document annexe et, le cas échéant, de télécharger le fichier le constituant. Une fois que le document annexe est ajouté, un trombone apparaît sous le titre du document parent.
 
@@ -128,7 +128,7 @@ Icône marquant la présence d’un document annexe
 
 En cliquant sur le trombone, on revient à la page d’édition du document annexe. Lorsque plusieurs documents annexes sont attachés à un document, on voit autant de trombones que de documents annexes. L’interface est volontairement sommaire à ce niveau : pour ne pas l’alourdir, Lodel 0.8 n’affiche pas les titres des documents annexes. Il faut donc laisser sa souris quelques instants au-dessus du trombone pour savoir quel trombone renvoie à quel document.
 
-Il est à remarquer que les documents annexes ont leur propre statut de publication ; ils peuvent être « prêt à publié » ou « publié » indépendamment du statut du document auquel ils sont attachés. Si on conçoit bien qu’un document publié puisse avoir un ou plusieurs documents annexes prêt à publier, le contraire risque d’entraîner des dysfonctionnements dans l’interface publique du site, bien que rien ne l’empêche techniquement.
+Il est à remarquer que les documents annexes ont leur propre statut de publication ; ils peuvent être « prêt à publié » ou « publié » indépendamment du statut du document auquel ils sont attachés. Si on conçoit bien qu’un document publié puisse avoir un ou plusieurs documents annexes prêts à publier, le contraire risque d’entraîner des dysfonctionnements dans l’interface publique du site, bien que rien ne l’empêche techniquement.
 
 Pour plus de détails sur la gestion des documents annexes, voir le chapitre « Gérer les documents annexes ».
 
