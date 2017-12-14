@@ -21,7 +21,7 @@ Création, import et export de la structure des données
 
 La structure et l’affichage des données sont définis dans le modèle éditorial (ME). Pour répondre à des besoins spécifiques, l’administrateur Lodel peut concevoir son propre ME. Il dispose dans Lodel de deux ME par défaut, qu’il peut utiliser tels quels ou bien modifier :
 
-- le ME de Revues.org, conçu pour la mise en ligne de revues scientifiques spécialisées dans les sciences humaines ;
+- le ME d'OpenEdition Journals, conçu pour la mise en ligne de revues scientifiques spécialisées dans les sciences humaines ;
 - un ME générique, qui contient tous les champs obligatoires pour fonctionner sous Lodel, ainsi que les options de configuration d’un Servoo, et qui permet donc de structurer les données selon les besoins précis de l’utilisateur.
 L’administrateur Lodel dispose d’une fonctionnalité lui permettant d’exporter son ME au format SQL. Il peut en outre choisir de sauvegarder, au même moment, les templates, feuilles de style, images et scripts Javascript associés à ce ME. L’importation d’un ME sauvegardé ne peut être effectuée que lors de la création d’un nouveau site, avant qu’une seule classe n’ait été définie. Il est envisagé, pour les futures versions de Lodel, de pouvoir importer et exporter au format XML le ME, ainsi que ses éléments pris séparément (Cf. METS).
 
@@ -31,7 +31,7 @@ Structuration du ME
 Concevoir un ME consiste tout d’abord à concevoir, pour chaque site, la structure des données qui seront manipulées par les autres utilisateurs. Cette structuration s’effectue sur cinq niveaux :
 
 - Définition des « options du site » : il faut préciser, pour chaque site, les caractéristiques nécessaires à son fonctionnement.
-- Définition des « classes » : il s’agit de définir les types de contenus mis en ligne, ainsi que les index qui permettent d’établir des liens entre ces contenus. Les classes se divisent en trois grandes catégories : entités (par exemple, pour le ME de Revues.org, les publications, les textes, les images ou les liens sont autant d’entités différentes), index (de mots-clés, historique, etc.) et index de personnes.
+- Définition des « classes » : il s’agit de définir les types de contenus mis en ligne, ainsi que les index qui permettent d’établir des liens entre ces contenus. Les classes se divisent en trois grandes catégories : entités (par exemple, pour le ME d'OpenEdition Journals, les publications, les textes, les images ou les liens sont autant d’entités différentes), index (de mots-clés, historique, etc.) et index de personnes.
 - Définition de la structure interne des classes : les classes sont composées de différents types de champs qui permettent de caractériser précisément les différents types d’informations contenus dans une classe. Ces champs sont associés à des styles de paragraphe dans le document issu du traitement de texte.
 - Définition de la hiérarchie et de l’imbrication des contenus mis en ligne : les entités peuvent être imbriquées les unes dans les autres, de manière à structurer et hiérarchiser les informations du site. Pour cela, Lodel utilise la notion de type.
 - À l’intérieur même des champs, il est possible d’identifier des éléments, de manière à décrire plus finement la structure du contenu mis en ligne : pour cela, Lodel utilise deux niveaux de styles, les styles en ligne et les styles de caractères.
