@@ -3,7 +3,7 @@
 La création de documents avec Lodel peut suivre deux procédures tout à fait différentes.
 
 * Le contenu de certains documents peut être directement saisi dans un formulaire détaillant différents champs, sur la page
-« édition » du document. La mise en forme doit donc y être insérée manuellement, via l’utilisation d’une syntaxe de mise en forme de type « wiki », ou plus facilement en utilisant une barre d’édition « Wysiwyg » qui permet de voir directement à l’écran les mises en forme que l’on applique sur le texte. Cette procédure simplifiée concerne la création de « textes simples » dont le modèle éditorial de Revues.org définit un seul type : « billet ».
+« édition » du document. La mise en forme doit donc y être insérée manuellement, via l’utilisation d’une syntaxe de mise en forme de type « wiki », ou plus facilement en utilisant une barre d’édition « Wysiwyg » qui permet de voir directement à l’écran les mises en forme que l’on applique sur le texte. Cette procédure simplifiée concerne la création de « textes simples » dont le modèle éditorial d'OpenEdition Journals définit un seul type : « billet ».
 * Dans le cas de documents longs, complexes, fortement structurés (plusieurs niveaux de titres, blocs de citations, notes de bas de page, tableaux, illustrations, mises en forme locales), il est préférable cependant de préparer son document à l’aide d’un logiciel de traitement de texte, puis de charger celui-ci dans Lodel en confiant au logiciel le soin d’effectuer la conversion.
 
 En effet, les styles que l’on attribue à différentes parties de son texte avec un logiciel de traitement de texte (titre, sous-titre, auteur, normal, liste à puces, citation) sont reconnus par Lodel, qui les utilise pour remplir les champs de sa base de données et générer la structure XML correspondante. C’est par ce moyen qu’il pourra alimenter automatiquement ses différents index avec les informations pertinentes et affichera les différents éléments du texte de manière différenciée selon les instructions de la maquette.
@@ -111,7 +111,7 @@ Les champs du formulaire d’édition ont été pré-remplis par Lodel à partir
 
 Remarque : il est possible de configurer le modèle éditorial de manière à rendre ces champs non éditables dans l’interface ; ce qui permet d’éviter des erreurs malencontreuses.
 
-On trouvera ci-dessous une description exhaustive des champs qui apparaissent lorsqu’on utilise le modèle éditorial de Revues.org.
+On trouvera ci-dessous une description exhaustive des champs qui apparaissent lorsqu’on utilise le modèle éditorial d'OpenEdition Journals.
 
 * **Numéro du document** : Il s’agit d’une information éditoriale qui peut être affichée dans la maquette dans la référence électronique du document. Le numéro de document peut être utilisé, par exemple, pour faciliter la citation des documents électroniques
 * **Titre**
@@ -135,7 +135,7 @@ On trouvera ci-dessous une description exhaustive des champs qui apparaissent lo
 * **Traducteur** : fonctionne comme un champ auteur. Aliment l’index des traducteurs.
 * **Editeur scientifique** : idem. Pour une explication détaillée de ces fonctions, voir le chapitre « Préparer un document avec Word ». Alimente l’index des éditeurs scientifiques.
 * **Œuvre commentée** : ce bloc de champs concerne des informations bibliographiques relatives à des comptes rendus et à des notes de lecture. Il s’agit ici des informations portant sur les ouvrages faisant l’objet du compte rendu : titre de l’œuvre, notice bibliographique, date de publication, nom de l’auteur (fonctionne comme un champ auteur classique, mais alimente l’index des auteurs d’œuvres commentées)
-* **Gestion du document** : ce bloc est particulier au modèle éditorial de Revues.org et renvoie à des exploitations spécifiques dans la maquette.
+* **Gestion du document** : ce bloc est particulier au modèle éditorial d'OpenEdition Journals et renvoie à des exploitations spécifiques dans la maquette.
    * La case « document prioritaire » permet de mettre « à la Une » le document en cours d’édition sur une page de sommaire par exemple, à condition que la maquette le prenne en compte.
    * La case « document cliquable dans les sommaires » permet de faire en sorte que le titre d’un document ne soit pas cliquable dans le sommaire de la publication qui le contient. Cette fonction est utilisée lorsque le document ne possède ni texte intégral, ni métadonnées complètes. Cela peut être le cas par exemple d’un article qui sera publié dans un numéro à paraître, annoncé sur le site d’une revue, mais dont on ne connaît rien de plus que le titre et le nom de l’auteur. Il est dans ce cas inutile de conduire le lecteur vers une page quasiment vide qui ne lui donnera pas d’information supplémentaire par rapport à ce qu’il peut déjà voir au niveau du sommaire.
 
