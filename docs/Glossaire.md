@@ -23,7 +23,7 @@ Dans lodel, les macros sont des scripts écrits en lodelscript qui permettent l�
 Modèle éditorial Lodel
 ----------------------
 
-Le modèle éditorial (ME) définit les types de publication et de document utilisables dans Lodel que les différents champs à renseigner dans la base de données. Les modèles éditoriaux sont entièrement modifiables et personnalisables en fonction de l’utilisation souhaitée de lodel. Il est ainsi possible d’adapter Lodel à des types de publication très variées. Revues.org ne gère, en revanche, qu’un seul ME par version de lodel. Des variations mineures peuvent cependant exister entre les revues, soit en raison de l’histoire (le ME mûrit progressivement), soit en raison de particularité de la revue, essentiellement du point de vue des index (chaque revue peut disposer de types d’index spécifiques).
+Le modèle éditorial (ME) définit les types de publication et de document utilisables dans Lodel que les différents champs à renseigner dans la base de données. Les modèles éditoriaux sont entièrement modifiables et personnalisables en fonction de l’utilisation souhaitée de lodel. Il est ainsi possible d’adapter Lodel à des types de publication très variées. OpenEdition Journals ne gère, en revanche, qu’un seul ME par version de lodel. Des variations mineures peuvent cependant exister entre les revues, soit en raison de l’histoire (le ME mûrit progressivement), soit en raison de particularité de la revue, essentiellement du point de vue des index (chaque revue peut disposer de types d’index spécifiques).
 Groupe de gestion : Cf.  https://lodeldevel.revues.org/
 
 Maquettes
@@ -32,7 +32,7 @@ Maquettes
 Lodelia
 -------
 
-Maquette générique de revue développée par Revues.org comprenant les templates, les CSS et les macros. Elle est basée sur le modèle éditorial de Revues.org. Revues.org a connu deux générations de Lodelia :
+Maquette générique de revue développée par OpenEdition Journals comprenant les templates, les CSS et les macros. Elle est basée sur le modèle éditorial d'OpenEdition Journals. OpenEdition Journals a connu deux générations de Lodelia :
 
 - Première génération de Lodelia (2002-2007) : Lodelia bleue, Lodelia rouge, Lodelia verte, Raspaillette. Cette génération s'appuie sur une matrice commune, qui est ensuite "forkée". Il est impossible de rétablir le lien avec la matrice. Il y a donc une parenté entre la matrice et les maquettes qui en découlent, mais le lien entre elles est rompu.
 
@@ -46,7 +46,7 @@ Langage de template propre à lodel. Il est basé sur php et MySQL. Il permet de
 Maquette graphique
 ------------------
 
-La maquette graphique d’un site est ce qui définit l'apparence, l'ordonnancement des contenus et l'ergonomie du site. Elle est implémentée via un jeu de fichiers templates et de feuilles de style css. Elle détermine l’architecture du site et la mise en forme des données. La maquette comprend les templates (définition des contenus affichés sur la page) et les CSS (mise en forme des contenus). Les revues sur Revues.org ont généralement pour maquette une simple colorisation de la Lodelia générique. Certaines revues, notamment les plus anciennes, bénéficient parfois de maquettes au graphisme plus élaboré, conçu par une équipe de graphistes externe.
+La maquette graphique d’un site est ce qui définit l'apparence, l'ordonnancement des contenus et l'ergonomie du site. Elle est implémentée via un jeu de fichiers templates et de feuilles de style css. Elle détermine l’architecture du site et la mise en forme des données. La maquette comprend les templates (définition des contenus affichés sur la page) et les CSS (mise en forme des contenus). Les revues sur OpenEdition Journals ont généralement pour maquette une simple colorisation de la Lodelia générique. Certaines revues, notamment les plus anciennes, bénéficient parfois de maquettes au graphisme plus élaboré, conçu par une équipe de graphistes externe.
 Exemple de simple colorisation : http://questionsdecommunication.revues.org/
 Exemple de maquette graphique élaborée : http://gradhiva.revues.org/
 
@@ -70,7 +70,7 @@ Pied de page
 ------------
 
 Barre de navigation et d'information affichée en pied de page de toutes les pages d’un site renvoyant à des informations techniques et pratiques.
-Pour la Lodelia 1.0 utilisée par Revues.org, ce pied de page contient les liens et mentions suivantes : Plan du site - À propos - Contacts - Crédits - ISSN électronique : xxxx-xxxx, Nous adhérons à Revues.org - Édité avec Lodel - Flux de syndication.
+Pour la Lodelia 1.0 utilisée par OpenEdition Journals, ce pied de page contient les liens et mentions suivantes : Plan du site - À propos - Contacts - Crédits - ISSN électronique : xxxx-xxxx, Nous adhérons à OpenEdition Journals - Édité avec Lodel - Flux de syndication.
 
 Stylage
 =======
@@ -78,7 +78,7 @@ Stylage
 Modèle de document bureautique
 ------------------------------
 
-Un modèle bureautique est un document qui contient des styles. Il sert de base aux nouveaux documents créés. Le modèle de document Word Revues.org contient les définitions des styles compréhensibles par Lodel.
+Un modèle bureautique est un document qui contient des styles. Il sert de base aux nouveaux documents créés. Le modèle de document Word OpenEdition Journals contient les définitions des styles compréhensibles par Lodel.
 Feuille de style (bureautique) : Une feuille de style contient la liste, le nom et la description formelle (mise en forme) des styles employés dans un document. Les styles ont une fonction d’harmonisation de la mise en forme du document (tous les paragraphes stylés en « Titre 1 » auront la même mise en forme). Les styles ont aussi une fonction sémantique, exploitée par Lodel : ils qualifient les paragraphes. Cela permet par exemple de constituer automatiquement des sommaires (à partir de tous les paragraphes stylé en « Titre X ») ou des index.
 
 Feuille de style (CSS)
@@ -160,7 +160,7 @@ Protocoles
 OAI :
 - L’OAI (Open Archives Initiatives) est un projet international qui vise à faciliter l'échange et la valorisation d'archives numériques. Elle permet de créer un outil de recherche simultanée dans plusieurs catalogues de bibliothèques. Il se base sur un protocole d’échange de métadonnées, OAI-PMH (Open Archives Initiative Protocol for Metadata Harvesting).
 Définition simple et précise : http://blogokat.canalblog.com/archives/oai_pmh_pas_a_pas/index.html
-Depot OAI : Revues.org dispose d’un dépôt OAI, c'est-à-dire une base de données interrogeable via le protocole OAI-PMH. Les documents édités pas Revues.org sont donc potentiellement accessibles depuis tous les systèmes de recherche utilisant le protocole OAI-PMH.
+Depot OAI : OpenEdition Journals dispose d’un dépôt OAI, c'est-à-dire une base de données interrogeable via le protocole OAI-PMH. Les documents édités par OpenEdition Journals sont donc potentiellement accessibles depuis tous les systèmes de recherche utilisant le protocole OAI-PMH.
 
 METS (Metadata Encoding and Transmission Standard) :
 Schéma XML autorisant la création et la description intégrale (données descriptives, administratives et structurelles) d'objets numériques textuels ou graphiques. Destiné particulièrement aux échanges entre institutions patrimoniales, METS est conforme aux recommandations de OAIS (Open Archival Information System) et est maintenu actuellement par la Bibliothèque du Congrès. METS fera sans doute assez rapidement l'objet d'une norme ISO.
