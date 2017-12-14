@@ -103,8 +103,8 @@ cliquer sur « Modifier » pour enregistrer.
 cliquer sur « Modifier et terminer » pour enregistrer et retourner sur l’espace « Administrer »
 cliquer sur « Annule » : annuler l’opération et retournersur l’espace « Administrer »
 
-Le Modèle éditorial (à compléter)
----------------------------------
+Le Modèle éditorial 
+-------------------
 
 Présentation
 ------------
