@@ -25,12 +25,12 @@ Avant d’entreprendre la réalisation d’un site, il convient d’en penser l�
 
 Les deux entités essentielles du site sont les documents et les publications.
 
-* Les documents constituent le contenu principal du site : articles d’une revue, comptes rendus, notes de lecture, informations          pratiques dans le cas du modèle éditorial de Revues.org.
+* Les documents constituent le contenu principal du site : articles d’une revue, comptes rendus, notes de lecture, informations          pratiques dans le cas du modèle éditorial d'OpenEdition Journals.
 * Les publications contiennent les textes : les numéros d’une revue, les journées d’un colloque, les rubriques d’un blog.
 
-C’est en jouant essentiellement avec ces deux types d’objet, qu’on va pouvoir construire l’arborescence de son site. Celui-ci ne doit pas, sauf exception, être pensé comme un livre, construit à partir d’une succession de chapitres, mais plutôt comme une sorte d’armoire remplie de boîtes, éventuellement contenues les unes dans les autres, contenant pour finir les documents que l’on cherche à ranger. Dans le modèle éditorial de Revues.org, les boîtes les plus grandes, qui contiennent toutes les autres sont des collections. A l’intérieur de ces collections, on peut placer directement des documents, ou plus généralement des conteneurs de plus petite taille – des rubriques, des numéros de revue, des sous-parties contenant eux-mêmes des documents.
+C’est en jouant essentiellement avec ces deux types d’objet, qu’on va pouvoir construire l’arborescence de son site. Celui-ci ne doit pas, sauf exception, être pensé comme un livre, construit à partir d’une succession de chapitres, mais plutôt comme une sorte d’armoire remplie de boîtes, éventuellement contenues les unes dans les autres, contenant pour finir les documents que l’on cherche à ranger. Dans le modèle éditorial d'OpenEdition Journals, les boîtes les plus grandes, qui contiennent toutes les autres sont des collections. A l’intérieur de ces collections, on peut placer directement des documents, ou plus généralement des conteneurs de plus petite taille – des rubriques, des numéros de revue, des sous-parties contenant eux-mêmes des documents.
 
-Plusieurs modèles d’organisation peuvent être adoptés. Le portail Revues.org qui publie des revues de sciences humaines avec Lodel, connaît deux grands types d’organisation documentaires :
+Plusieurs modèles d’organisation peuvent être adoptés. Le portail OpenEdition Journals qui publie des revues de sciences humaines avec Lodel, connaît deux grands types d’organisation documentaires :
 
 * des sites où les contenus sont organisés à l’intérieur de numéros de revues :
 
@@ -63,9 +63,9 @@ On peut ainsi créer de multiples publications emboîtées. En haut de la page, 
 
 --------------------------------------------------------------
 
-### STRUCTURE DU SITE ET CHAMPS DANS LE MODÈLE ÉDITORIAL DE REVUES.ORG
+### STRUCTURE DU SITE ET CHAMPS DANS LE MODÈLE ÉDITORIAL D'OPENEDITION JOURNALS
 
-Les modèles éditoriaux mettent en place de contraintes sur les types de structuration qu’ils autorisent. Ils interdisent ainsi les structurations absurdes (un numéro de revue dans une sous-partie par exemple), ou qui ne sont pas souhaitées. Le modèle éditorial de Revues.org repose sur un nombre limité de règles simples :
+Les modèles éditoriaux mettent en place de contraintes sur les types de structuration qu’ils autorisent. Ils interdisent ainsi les structurations absurdes (un numéro de revue dans une sous-partie par exemple), ou qui ne sont pas souhaitées. Le modèle éditorial d'OpenEdition Journals repose sur un nombre limité de règles simples :
 
  * Les « collections » sont nécessairement définies à la racine de l’arborescence documentaire du site.
  * Les « numéros » et « rubriques » ne peuvent pas être créées à la racine du site.
@@ -76,14 +76,14 @@ Les modèles éditoriaux mettent en place de contraintes sur les types de struct
  
 C’est l’application des règles du modèle éditorial qui explique que certains types de publications ou de documents ne sont pas disponibles et ne peuvent être créés selon l’endroit où l’on se trouve dans l’arborescence du site.
 
-Dans la page d’édition des publications, le bloc de « Gestion des publications » est propre au modèle éditorial de Revues.org. Il permet de transmettre des informations qui, si elles sont utilisées par la maquette, déclenchent des affichages spécifiques.
+Dans la page d’édition des publications, le bloc de « Gestion des publications » est propre au modèle éditorial d'OpenEdition Journals. Il permet de transmettre des informations qui, si elles sont utilisées par la maquette, déclenchent des affichages spécifiques.
 
 **Bloc de gestion des publications**
 
 ![Screenshot4](image/image15.png)
 
-* « Cette publication est-elle prioritaire ? » Dans les maquettes conçues par Revues.org, cette option permet de faire remonter la publication à la « Une » de la page d’accueil du site.
-* « Cette publication est-elle à paraître ? » Dans les maquettes conçues par Revues.org, cette option permet d’afficher le numéro des revues à paraître dans la barre de navigation, sous l’intitulé adéquat.
+* « Cette publication est-elle prioritaire ? » Dans les maquettes conçues par OpenEdition Journals, cette option permet de faire remonter la publication à la « Une » de la page d’accueil du site.
+* « Cette publication est-elle à paraître ? » Dans les maquettes conçues par OpenEdition Journals, cette option permet d’afficher le numéro des revues à paraître dans la barre de navigation, sous l’intitulé adéquat.
 * « Cette publication est-elle en texte intégral ? » Dans les maquettes conçues par le Cléo, cette option permet de signaler dans la barre de navigation que ce numéro est en libre accès et n’est pas dans la barrière mobile.
 
 ### Droits d'auteur
