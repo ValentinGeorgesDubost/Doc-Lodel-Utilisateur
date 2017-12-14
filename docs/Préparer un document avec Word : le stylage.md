@@ -4,10 +4,10 @@ Pour interpréter de manière correcte la structure d’un document Word, Lodel 
 
 La procédure de préparation d’un document pour Lodel consiste donc, pour l’essentiel, à appliquer des styles définis sur les différentes parties du document. On appelle cette phase de travail le « stylage ». Cette méthode est relativement contraignante : Lodel comprend un nombre limité de styles et la présence dans le document de styles qu’il ne reconnaît pas entraîne des erreurs. Elle a cependant l’avantage d’assurer une prise en charge de la conversion  maîtrisée de documents longs et complexes sans nécessiter de connaissances techniques particulières de la part des utilisateurs.
 
-Par ailleurs, cette méthode permet d’inclure dans le document au format traitement de texte la plupart des métadonnées qui le concernent : titre du document, sous-titre, résumé, mots clés en différentes langues, nom et description du ou des auteurs, date de publication, etc. Il permet donc de préparer des documents complets que l’on met en ligne une fois qu’ils sont prêts. Pour aider les utilisateurs dans ce travail de préparation, le Cléo a développé un modèle de document qui peut être utilisé dans la phase de stylage. Ce modèle de document correspond au modèle éditorial de Revues.org.
+Par ailleurs, cette méthode permet d’inclure dans le document au format traitement de texte la plupart des métadonnées qui le concernent : titre du document, sous-titre, résumé, mots clés en différentes langues, nom et description du ou des auteurs, date de publication, etc. Il permet donc de préparer des documents complets que l’on met en ligne une fois qu’ils sont prêts. Pour aider les utilisateurs dans ce travail de préparation, le Cléo a développé un modèle de document qui peut être utilisé dans la phase de stylage. Ce modèle de document correspond au modèle éditorial d'OpenEdition Journals.
 
-LE MODÈLE DE DOCUMENT DE REVUES.ORG
-===================================
+LE MODÈLE DE DOCUMENT D'OpenEdition Journals
+============================================
 
 UN MODÈLE DE DOCUMENT : DÉFINITION
 ----------------------------------
@@ -32,12 +32,12 @@ Le modèle par défaut pour tout document Word est le modèle Normal.dot
 
 Le Cléo a développé à l’intention des auteurs qui saisissent leurs textes sous Word un modèle de document, permettant de structurer leurs textes pour préparer leur traitement par Lodel.
 
-Ce modèle intègre tous les styles utilisés dans le modèle éditorial de Revues.org.
+Ce modèle intègre tous les styles utilisés dans le modèle éditorial d'OpenEdition Journals.
 
-LE MODÈLE DE DOCUMENT DE REVUES.ORG
------------------------------------
+LE MODÈLE DE DOCUMENT D'OpenEdition Journals
+--------------------------------------------
 
-Les styles contenus dans le modèle de documents de Revues.org sont, comme pour tous les modèles Word, listés par ordre alphabétique dans un menu de barre d’outils Mise en forme (on y accède par l’onglet « Format > Styles et mises en forme »).
+Les styles contenus dans le modèle de documents d'OpenEdition Journals sont, comme pour tous les modèles Word, listés par ordre alphabétique dans un menu de barre d’outils Mise en forme (on y accède par l’onglet « Format > Styles et mises en forme »).
 
 Afin de faciliter l’accès à ces styles, ils sont proposés dans une barre d’outils spécifiques : la « barre d’outils Lodel », où ils sont organisés en cinq groupes, correspondant chacun à un menu :
 
@@ -48,31 +48,31 @@ Plan
 Œuvre commentée
 Un sixième menu se contente de donner des informations sur le modèle lui-même.
 
-Le modèle de documents de Revues.org : la barre de styles
+Le modèle de documents d'OpenEdition Journals : la barre de styles
 
 ![Screenshot1](image/Gérer-docs-annexes/img-3.png)
 
 INSTALLER ET UTILISER LE MODÈLE DE DOCUMENT
 -------------------------------------------
 
-Après avoir téléchargé et installé le modèle de document de Revues.org sur son ordinateur, on peut l’utiliser de deux manières :
+Après avoir téléchargé et installé le modèle de document d'OpenEdition Journals sur son ordinateur, on peut l’utiliser de deux manières :
 
-On peut créer un nouveau document vierge basé sur ce modèle et y taper ou copier/coller son texte depuis un autre document. Pour ce faire, lorsqu’on utilise Windows, il suffit généralement de double-cliquer sur le modèle. Un nouveau document est alors créé ; on y voit apparaître le barre d’outils de stylage caractéristique du modèle Revues.org. Il suffit d’effacer le faux texte qui s’affiche dans le document, puis de taper ou coller son texte avant d’appliquer les styles utiles.
+On peut créer un nouveau document vierge basé sur ce modèle et y taper ou copier/coller son texte depuis un autre document. Pour ce faire, lorsqu’on utilise Windows, il suffit généralement de double-cliquer sur le modèle. Un nouveau document est alors créé ; on y voit apparaître le barre d’outils de stylage caractéristique du modèle OpenEdition Journals. Il suffit d’effacer le faux texte qui s’affiche dans le document, puis de taper ou coller son texte avant d’appliquer les styles utiles.
 
-Nouveau document généré à partir du modèle de document Revues.org
+Nouveau document généré à partir du modèle de document OpenEdition Journals
 
 ![Screenshot1](image/Gérer-docs-annexes/img-4.png)
 
-Autre possibilité : si on dispose d’un document Word contenant déjà tout le contenu à mettre en ligne. Dans ce cas, on peut attacher a posteriori le modèle Revues.org à ce document. Pour ce faire, il faut ouvrir le document original, puis ouvrir le menu : Outils, puis Modèles et compléments. Le champ « attacher » permet alors d’aller chercher sur son disque dur puis d’attacher le modèle Revues.org. Avant de valider, il ne faut pas oublier de cocher la case « Mise à jour automatique des styles », faute de quoi l’attachement ne sera pas effectif. Après validation, la barre d’outils Revues.org apparaît.
+Autre possibilité : si on dispose d’un document Word contenant déjà tout le contenu à mettre en ligne. Dans ce cas, on peut attacher a posteriori le modèle OpenEdition Journals à ce document. Pour ce faire, il faut ouvrir le document original, puis ouvrir le menu : Outils, puis Modèles et compléments. Le champ « attacher » permet alors d’aller chercher sur son disque dur puis d’attacher le modèle OpenEdition Journals. Avant de valider, il ne faut pas oublier de cocher la case « Mise à jour automatique des styles », faute de quoi l’attachement ne sera pas effectif. Après validation, la barre d’outils OpenEdition Journals apparaît.
 
-Attacher le modèle de Revues.org
+Attacher le modèle de OpenEdition Journals
 
 ![Screenshot1](image/Gérer-docs-annexes/img-5.png)
 
 Il reste à appliquer les styles adéquats sur les bonnes parties du document.
 
-STYLER UN DOCUMENT AVEC LE MODÈLE REVUES.ORG
-============================================
+STYLER UN DOCUMENT AVEC LE MODÈLE OpenEdition Journals
+======================================================
 
 AFFICHAGE DES STYLES DANS WORD
 ------------------------------
@@ -244,7 +244,7 @@ Afin de conserver une date de publication électronique stable, même en cas de 
 
 Date de publication électronique et « barrière mobile ».
 
-Pour les revues adhérant à Revues.org et utilisant la fonction de « barrière mobile », la date de publication électronique sera utilisée par Lodel pour gérer l’affichage de l’article sous forme de résumé ou en texte intégral.
+Pour les revues adhérant à OpenEdition Journals et utilisant la fonction de « barrière mobile », la date de publication électronique sera utilisée par Lodel pour gérer l’affichage de l’article sous forme de résumé ou en texte intégral.
 
 Les articles ayant une date de publication électronique postérieure à la date de consultation de l’article, seules les métadonnées seront affichés (titre, auteur, résumés, abstract…) ;
 
@@ -336,7 +336,7 @@ Les images sont conservées et récupérées par Lodel à condition qu’elles s
 
 Les images peuvent être disposées en habillage ou sans habillage par rapport au texte.
 
-Attention : Hormis pour les revues adhérentes de Revues.org, Lodel ne prend pas en compte les redimensionnements éventuels des images dans le fichier Word. Lodel affiche les images dans leur taille réelle. Réduire la taille d’une image par un redimensionnement avec la souris ne suffit donc pas : il faut utiliser un logiciel de traitement d’images avant de les importer dans Word ou OpenOffice.org et réduire :
+Attention : Hormis pour les revues adhérentes d'OpenEdition Journals, Lodel ne prend pas en compte les redimensionnements éventuels des images dans le fichier Word. Lodel affiche les images dans leur taille réelle. Réduire la taille d’une image par un redimensionnement avec la souris ne suffit donc pas : il faut utiliser un logiciel de traitement d’images avant de les importer dans Word ou OpenOffice.org et réduire :
 
 la taille de l’image, en déterminant la hauteur et la largeur en pixels. La taille de l’image doit être raisonnable, afin de s’insérer correctement dans la maquette du site (en général, la zone d’affichage des images a une largeur de 500pixels). Il existe des exceptions : voir ci-dessous le paragraphe sur le redimensionnement des images par Lodel ;
 
@@ -349,7 +349,7 @@ le format de l’image doit être choisi avec précaution. Choisir le format (jp
 
 Pour l’édition électronique, les images couleurs au format jpg et png doivent être en mode RVB et non en mode CMJN (utilisé pour l’impression).
 
-Redimensionnement des images par Lodel (fonction disponible pour les revues adhérant à Revues.org)
+Redimensionnement des images par Lodel (fonction disponible pour les revues adhérant à OpenEdition Journals)
 
 Il est parfois nécessaire d’importer des images de taille supérieure à la largeur du texte dans la maquette (les cartes nécessitent par exemple une résolution importante pour être lisibles). Dans ce cas, Lodel génère automatiquement une image plus petite qui s’intègre dans la maquette. Cette image est alors cliquable et une icône « loupe » est ajoutée à droite de l’image. Le lien ouvre une nouvelle fenêtre qui contient l’image dans sa taille originale.
 
