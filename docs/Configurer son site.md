@@ -63,7 +63,7 @@ Ce bloc donne accès à des fonctions de sauvegarde des données du site et de r
 
 ### LES FONCTIONS DE TRADUCTION
 
-Lodel possède depuis la version 0.8 des fonctions permettant de gérer plusieurs langues de travail et de publication sur un seul site. Dans le bloc « Outils », se trouvent les entrées permettant de gérer les traductions de l’interface d’édition ; dans le bloc « Configuration », les fonctions de traduction des intitulés de navigation sur le site. Dans ce dernier cas, il faut évidemment que la maquette du site exploite le système de traduction des intitulés. Un prochain chapitre de la documentation traitera en détail des la mise en place du multilinguisme sur un site Lodel.
+Lodel possède depuis la version 0.8 des fonctions permettant de gérer plusieurs langues de travail et de publication sur un seul site. Dans le bloc « Outils », se trouvent les entrées permettant de gérer les traductions de l’interface d’édition ; dans le bloc « Configuration », les fonctions de traduction des intitulés de navigation sur le site. Dans ce dernier cas, il faut évidemment que la maquette du site exploite le système de traduction des intitulés. Un prochain chapitre de la documentation traitera en détail de la mise en place du multilinguisme sur un site Lodel.
 
 #### Droits d'auteur
 

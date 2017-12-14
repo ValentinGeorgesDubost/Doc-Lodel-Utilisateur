@@ -44,7 +44,7 @@ L’administrateur Lodel définit, pour chaque site, les informations nécessair
 Deuxième niveau : les classes
 -----------------------------
 
-Les contenus sont appelées « entités » dans Lodel : il s’agit de contenus structurés qui peuvent être imbriqués les uns dans les autres. Ces entités peuvent être reliées entre elles par des entrées d’index linéaires ou hiérarchiques, et peuvent être liées à des entrées d’index de personnes. Entités, index et index de personnes sont appelées « classes » dans Lodel. Il est possible de créer un nombre illimité de ces trois types de classes. Deux identifiants uniques et permanents sont attribués à chaque instance d’une classe : un identifiant numérique et un identifiant textuel. Grâce à ces deux identifiants, il est possible d’attribuer à chaque objet une URL permanente (du type http://monsite/index.php?id=33 ou http://monsite/mon-bel-identifiant). L’identifiant numérique est automatiquement attribué par Lodel et ne peut pas être modifié ; l’identifiant textuel est lui aussi attribué par Lodel en fonction du titre du document, mais peut être modifié manuellement. TODO : comment sont générés les identifiants littéraux
+Les contenus sont appelés « entités » dans Lodel : il s’agit de contenus structurés qui peuvent être imbriqués les uns dans les autres. Ces entités peuvent être reliées entre elles par des entrées d’index linéaires ou hiérarchiques, et peuvent être liées à des entrées d’index de personnes. Entités, index et index de personnes sont appelées « classes » dans Lodel. Il est possible de créer un nombre illimité de ces trois types de classes. Deux identifiants uniques et permanents sont attribués à chaque instance d’une classe : un identifiant numérique et un identifiant textuel. Grâce à ces deux identifiants, il est possible d’attribuer à chaque objet une URL permanente (du type http://monsite/index.php?id=33 ou http://monsite/mon-bel-identifiant). L’identifiant numérique est automatiquement attribué par Lodel et ne peut pas être modifié ; l’identifiant textuel est lui aussi attribué par Lodel en fonction du titre du document, mais peut être modifié manuellement. TODO : comment sont générés les identifiants littéraux
 
 Troisième niveau : les champs
 -----------------------------
@@ -113,7 +113,7 @@ Chacun des champs définis dans Lodel dispose d’un mode d’édition. Lors de 
 L’administrateur Lodel peut aussi décider que la valeur d’un champ n’est pas modifiable, ce qui implique que :
 
 - sa valeur par défaut lui sera systématiquement attribuée lors de la création ;
-- la mise à jour de ce champ lors des modifications ultérieures dépend de la contrainte sur les mises à jour sélectionnée.
+- la mise à jour de ce champ lors des modifications ultérieures dépend de la contrainte sur les mises à jour sélectionnées.
 
 L’administrateur Lodel décide si le nom et la valeur d’un champ non modifiable doivent être affichés dans l’interface d’édition, ou non : si non, aucun champ HTML n’est généré, pas même un champ caché.
 

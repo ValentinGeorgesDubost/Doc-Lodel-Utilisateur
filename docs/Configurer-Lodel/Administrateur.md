@@ -52,7 +52,7 @@ Les informations optionnelles
 
 Ce bloc permet d’entrer un certain nombre d’informations optionnelles, utiles par exemple dans le cas d’équipes travaillant à distance : contacts complets (téléphone, adresse de messagerie instantanée…)
 
-Une fois toutes les informations entrées dans le formulaire, cliquez sur « ajouter ». VOus pouvez bien sûr modifier par la suite ces informations, à partir de la page d’édition des utilisateurs.
+Une fois toutes les informations entrées dans le formulaire, cliquez sur « ajouter ». Vous pouvez bien sûr modifier par la suite ces informations, à partir de la page d’édition des utilisateurs.
 
 Modifier les informations sur un utilisateur
 --------------------------------------------
@@ -115,7 +115,7 @@ Le modèle éditorial définit à la fois le contenu des documents et des public
 
 Le modèle éditorial est une fonctionnalité très puissante, modifialbe à volonté par tout administrateur du site. Proportionnellement à sa puissance, les conséquences de sa modification peuvent être considérables, parfois très graves.
 
-Par exemple, si vous décidez de modifier le type du texte d’un document en le passant de « texte long » à « texte court », vous allez raboter l’ensemble de vos documents pour qu’ils puissent entrer dans le nouveau format. Le retour à un « texte long » ne rétablira jamais le contenu initial des documents. De même, le modèle éditorial ayant une influence sur la définition du sch&ma XML, superstructure du document, la modification du modèle éditorial modifiera l’ensemble des fichiers XML décrivant le site et le schéma XML du site.
+Par exemple, si vous décidez de modifier le type du texte d’un document en le passant de « texte long » à « texte court », vous allez raboter l’ensemble de vos documents pour qu’ils puissent entrer dans le nouveau format. Le retour à un « texte long » ne rétablira jamais le contenu initial des documents. De même, le modèle éditorial ayant une influence sur la définition du schéma XML, superstructure du document, la modification du modèle éditorial modifiera l’ensemble des fichiers XML décrivant le site et le schéma XML du site.
 
 Lodel.org met à disposition un Modèle éditorial prédéfini, qui permet une utilisation poussée des potentialités de Lodel.
 
@@ -195,7 +195,7 @@ Le lien « Ajouter une entrée » pointe vers la page « Edition d’une entrée
 
 Il est possible de modifier une entrée : le lien Modifier pointe vers la page d’Edition d’une entrée expliquée ci-dessus ; ou de supprimer une entrée.
 
-La suppression d’une entrée est définitive. Il est possible de supprimer une entrée lorsqu’elle ne contient pas d’autres entrées, et lorsque son statut est « Normal ». Lorsqu’une entrée a le statut « Protégée » il faut modifier son statut pour pouvoir la supprimer, en cliquant sur le lien Modifier, puis en décochant le champ Entrée permanente.
+La suppression d’une entrée est définitive. Il est possible de supprimer une entrée lorsqu’elle ne contient pas d’autres entrées, et lorsque son statut est « Normal ». Lorsqu’une entrée a le statut « Protégée » il faut modifier son statut pour pouvoir la supprimer, en cliquant sur le lien Modifier, puis en décochant le champ «Entrée permanente».
 
 Gestion d’un index hiérarchique : l’index chronologique
 -------------------------------------------------------
