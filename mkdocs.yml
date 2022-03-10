@@ -1,5 +1,8 @@
 site_name: Doc Utilisateur Lodel
 
+theme:
+    name: readthedocs
+    
 pages:
 - Introduction: 'index.md'
 
